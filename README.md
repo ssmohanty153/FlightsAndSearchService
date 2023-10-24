@@ -5,8 +5,7 @@
 - clone the project on your local
 
 - Excecute `npm install` on the same path.
-- Creatate a `.env` files in the same root and add the following variable. 
-      - `PORT=3000`.
+- Creatate a `.env` files in the same root and add the following variable. - `PORT=3000`.
 - Inside `src/config` folder create a new file and the `config.json` and add the followig code.
 
   ```
@@ -35,8 +34,9 @@
   }
 
   ```
-- once you have add the you have to go to src folder from the terminal then excute ` npx sequelize db:create` 
-```
+
+- once you have add the you have to go to src folder from the terminal then excute ` npx sequelize db:create`
+
   /
   -src/
   index.js//server
