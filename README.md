@@ -5,7 +5,8 @@
 - clone the project on your local
 
 - Excecute `npm install` on the same path.
-- Creatate a `.env` files in the same root and add the following variable - `PORT=3000`.
+- Creatate a `.env` files in the same root and add the following variable. 
+   - `PORT=3000`.
 - Inside `src/config` folder create a new file and the `config.json` and add the followig code.
 
   ```
