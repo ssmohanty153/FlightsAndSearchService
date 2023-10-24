@@ -2,11 +2,11 @@
 
 ## Project setup
 
--clone the project on your local
+- clone the project on your local
 
 - Excecute `npm install` on the same path.
 - Creatate a `.env` files in the same root and add the following variable -`PORT=3000`
-  -inside `src/config` folder create a new file and the `config.json` and add the followig code.
+- inside `src/config` folder create a new file and the `config.json` and add the followig code.
 
   ```
   {
