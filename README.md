@@ -37,6 +37,13 @@
 
 - once you have add the you have to go to src folder from the terminal then excute ` npx sequelize db:create`
 
+
+
+## DB Databse
+  - AirPlaneTable
+  - Flight
+  - Airport
+  - city
   /
   -src/
   index.js//server
